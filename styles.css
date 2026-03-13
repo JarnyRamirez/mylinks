@@ -20,6 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   line-height: 1.6;
+  overflow-x: hidden; /* Evita el desplazamiento horizontal */
 }
 
 /* ========================================
